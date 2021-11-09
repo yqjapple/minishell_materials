@@ -13,4 +13,5 @@ https://pubs.opengroup.org/onlinepubs/9699919799/ <br />
 https://brennan.io/2015/01/16/write-a-shell-in-c/ <br />
 https://www.geeksforgeeks.org/making-linux-shell-c/ <br />
 https://www.cs.cornell.edu/courses/cs414/2004su/homework/shell/shell.html <br />
-https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf <br /f>
+https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf <br />
+https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf <br / >
