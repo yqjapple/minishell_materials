@@ -1,8 +1,8 @@
 # minishell_materials
 
 makefile https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/ <br />
-https://opensource.com/article/18/8/what-how-makefile#:~:text=The%20make%20utility%20requires%20a,be%20installed%20using%20make%20install%20 <br />
-https://makefiletutorial.com/<br />
+https://opensource.com/article/18/8/what-how-makefile#:~:text=The%20make%20utility%20requires%20a,be%20installed%20using%20make%20install%20. <br />
+https://makefiletutorial.com/ <br />
 color https://www.theurbanpenguin.com/4184-2/<br />
 https://thoughtbot.com/blog/input-output-redirection-in-the-shell <br />
 shell command https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html <br />
